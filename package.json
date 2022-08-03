@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "es un bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "calidad"
+  ],
+  "author": "Kesos",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "eslint": "^8.21.0"
+  }
+}
